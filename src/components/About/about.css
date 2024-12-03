@@ -1,0 +1,18 @@
+.about{
+     padding-left: 15%;
+     padding-right: 15%;
+}
+
+@font-face { 
+     font-family: 'MyIconFont'; 
+     src: 
+     url('../../assets/project-assets/fa-brands-400-Ch568Ea9.woff2') format('woff2'), 
+     url('../../assets/project-assets/fa-brands-400-DHHcbFjz.ttf') format('truetype');
+} 
+.icon { 
+     font-family: 'MyIconFont'; 
+     font-size: 24px; /* Adjust the size as needed */ 
+} 
+.icon-example:before { 
+     content: '\e900'; /* Unicode for your icon */ 
+}

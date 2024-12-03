@@ -1,0 +1,13 @@
+.myimg{
+     margin: auto;
+     max-height: 25vh;
+     max-width: 75%;
+     width: 200px;
+     height: 200px;
+     position: relative;
+     top: 10%;
+}
+
+.bg-sidebar{
+     background-color: bisque;
+}
